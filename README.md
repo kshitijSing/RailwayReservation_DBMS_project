@@ -16,4 +16,5 @@ A Dummy Railway Reservation system akin to IRCTC - current railway reservation s
 *Write a description of the scenario.<br /> 
 *Draw **ER Diagram** for the scenario. <br />
 *Create relational schema diagram from your **ER diagram**.<br />
-*Implement the database as separate schema on the **PostgreSQL server**.<br />
+
+--------------------
